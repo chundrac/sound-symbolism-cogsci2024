@@ -11,3 +11,5 @@ The following shell script runs all data processing and model fitting scripts:
 ./run_individual_models.sh
 ./run_pairwise_models.sh
 ```
+
+[![DOI](10.5281/zenodo.15338270)](10.5281/zenodo.15338270)
