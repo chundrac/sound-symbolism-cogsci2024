@@ -12,4 +12,4 @@ The following shell script runs all data processing and model fitting scripts:
 ./run_pairwise_models.sh
 ```
 
-[![DOI](10.5281/zenodo.15338270)](10.5281/zenodo.15338270)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15338271.svg)](https://doi.org/10.5281/zenodo.15338271)
